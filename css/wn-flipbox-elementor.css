@@ -1,0 +1,12 @@
+.wn_flipbox_pro_elementor_icon_svg {
+	display: block;		
+	background-image: url('../images/wn-flipbox-icon-elementor.svg') !important; 
+	background-repeat: no-repeat;
+	margin-right: 50% !important;
+	margin-left: 50% !important;
+	background-size: 36px;
+	padding: 17px 18px;
+	transform: translateX(-50%);
+	margin-top: -2px;
+	margin-bottom: -5px;
+  }
